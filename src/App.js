@@ -45,7 +45,7 @@ function App() {
 
   }
 const openRefresh=()=>{
-  window. location. reload() 
+  window.location.reload() 
 }
   return (
     <div className="App">
